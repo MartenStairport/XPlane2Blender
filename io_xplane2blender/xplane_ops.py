@@ -793,7 +793,7 @@ class AutoLOD(bpy.types.Operator):
 
     collection_name: bpy.props.StringProperty()
 
-    minObjDimension = 24.0
+    minObjDimension = 13.0
     fov = 106.0
     screenResAlongDimension = 1920.0
 
